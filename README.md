@@ -134,3 +134,18 @@ Research internship project at NIT Calicut focused on multilingual handwritten t
 <p align="center">
  Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • Generative AI • RAG • Agentic AI • Semantic Search • LangChain • LangGraph • ChromaDB • Optuna • REST APIs
 </p>
+
+
+
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vishnu-s-3b483227a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishnus202004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
