@@ -1,38 +1,38 @@
 <img src="banner.png" width="100%">
-## 🧠 About Me
+
+<H1>About Me</H1> 
 
 ```python
-class Vishnu:
+class VishnuS:
 
-    role = "AI Engineer"
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.university = "VIT Bhopal"
+        self.experience = "Research Intern @ NIT Calicut"
 
-    university = "VIT Bhopal"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Computer Vision"
+        ]
 
-    experience = [
-        "Research Intern @ NIT Calicut"
-    ]
+        self.tech_stack = [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "FastAPI",
+            "LangChain",
+            "LangGraph",
+            "React"
+        ]
 
-    interests = [
-        "LLMs",
-        "RAG",
-        "Agentic AI",
-        "Computer Vision",
-        "AI Systems"
-    ]
+        self.current_projects = [
+            "ModelSmith AutoML",
+            "Competitor Intelligence Agent",
+            "AI Doctor"
+        ]
 
-    currently_building = [
-        "ModelSmith - Autonomous AutoML",
-        "Competitor Intelligence Agent",
-        "AI Doctor"
-    ]
-
-    learning = [
-        "BERT",
-        "GPT",
-        "Advanced LLM Systems",
-        "LangGraph",
-        "AI Agents"
-    ]
-
-    goal = "Build production-grade AI products"
+        self.mission = "Building AI systems that solve real-world problems"
 ```
