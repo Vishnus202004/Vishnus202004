@@ -37,12 +37,12 @@ class VishnuS:
         self.mission = "Building AI systems that solve real-world problems"
 ```
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🤖 ModelSmith</h3>
+<h3 align="center"> ModelSmith</h3>
 <p align="center"><b>LLM-Powered Autonomous AutoML System</b></p>
 
 <p>
@@ -62,7 +62,7 @@ Built an intelligent AutoML platform with LLM-driven dataset profiling, automati
 </td>
 
 <td width="50%">
-<h3 align="center">🕵️ Competitor Intelligence Agent</h3>
+<h3 align="center"> Competitor Intelligence Agent</h3>
 <p align="center"><b>LangGraph Multi-Agent RAG System</b></p>
 
 <p>
@@ -84,7 +84,7 @@ Autonomous market monitoring system using Playwright scraping, NewsAPI monitorin
 
 <tr>
 <td width="50%">
-<h3 align="center">🩺 AI Doctor</h3>
+<h3 align="center">AI Doctor</h3>
 <p align="center"><b>Multi-Model Medical Prediction System</b></p>
 
 <p>
@@ -104,7 +104,7 @@ Healthcare AI system combining NLP-based disease prediction using LSTM networks 
 </td>
 
 <td width="50%">
-<h3 align="center">📝 ViT OCR</h3>
+<h3 align="center">ViT OCR</h3>
 <p align="center"><b>Vision Transformer Handwritten Text Recognition</b></p>
 
 <p>
@@ -123,3 +123,14 @@ Research internship project at NIT Calicut focused on multilingual handwritten t
 </td>
 </tr>
 </table>
+
+
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,tensorflow,pytorch,fastapi,react,nextjs,docker,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+ Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • Generative AI • RAG • Agentic AI • Semantic Search • LangChain • LangGraph • ChromaDB • Optuna • REST APIs
+</p>
